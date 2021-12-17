@@ -1,0 +1,22 @@
+#root{
+  background-color:black;
+  color: white;
+}
+
+.view{
+  background-color: 
+RGB(130, 224, 170) ;
+  color: 
+RGB(66, 73, 73 );
+  margin: auto;
+  overflow: auto;
+  height:300px;  
+}
+h2{
+  display:box;
+  margin: auto;
+  text-align: center;
+}
+.form-control{
+  height:200px;
+}
